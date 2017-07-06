@@ -1,0 +1,45 @@
+{
+  "room":   "GlobalPlug.cz",
+  "author": "X-Press",
+  "icon":   null,
+  "css":    "https://rawgit.com/XPresscz/CSS/master/Global.css",
+  "rules": {
+    "allowAutorespond": true,
+    "allowAutowoot":    true,
+    "allowAutojoin":    true,
+    "allowAutograb":    true,
+    "allowSmartVote":   true,
+    "allowEmotes":      true,
+    "allowShowingMehs": true,
+    "forceSmartVote":   false
+  },
+  "ccc": {
+    "admin":            null,
+    "ambassador":       null,
+    "host":             "#5BF",
+    "cohost":           "#58F",
+    "manager":          "#E15",
+    "bouncer":          "#F45",
+    "rdj":              "#F95",
+    "subscriber":       "#E6CC26",
+    "silversubscriber": "#DC24D9",
+    "friend":           null,
+    "user":             null
+  },
+  "images": {
+    "background":       "http://i.imgur.com/T8cGdwx.jpg",
+    "playback":         "http://i.imgur.com/6fwtgBE.png",
+    "admin":            null,
+    "ambassador":       null,
+    "host":             null,
+    "cohost":           null,
+    "manager":          null,
+    "bouncer":          null
+    "rdj":              null,
+    "subscriber":       null,
+    "silversubscriber": null,
+  },
+  "autocomplete": [],
+  "emotes": {
+  }
+}
